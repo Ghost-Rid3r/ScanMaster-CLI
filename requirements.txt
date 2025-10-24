@@ -1,0 +1,4 @@
+# External dependencies will go here in the next phase.
+# For the core CLI, we are only using Python's built-in 'socket' and 'argparse'.
+# If you add advanced features (e.g., requests, scapy), list them here:
+# requests>=2.31.0
